@@ -1,6 +1,6 @@
 name: Extra Landing Page
 type: Drupal CMS
-description: 'Provides a minimal content type ('mt-landing-page') optimized for Layout Builder, allowing flexible block-based landing page creation.'
+description: 'Provides a minimal content type (mt-landing-page) optimized for Layout Builder, allowing flexible block-based landing page creation.'
 
 config:
   strict: false
