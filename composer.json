@@ -1,6 +1,6 @@
 {
     "name": "morethanthemes/extra_landing_page",
-    "description": "Creates a content type with the machine name mt-landing-page.",
+    "description": "A minimal Drupal content type ('mt-landing-page') optimized for Layout Builder, enabling block-based landing page creation with flexibility.",
     "type": "drupal-recipe",
     "require": {
       "drupal/core": "^9.3"
